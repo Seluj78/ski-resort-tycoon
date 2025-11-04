@@ -39,6 +39,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+If you're on a mac, you'll also need `PyObjC`
+
+```shell
+pip install pyobjc
+```
+
+
 ```
 pre-commit install
 pre-commit install --hook-type commit-msg
