@@ -19,7 +19,6 @@ import asyncio
 
 from typing import Final
 
-
 SCREEN_WIDTH: Final = 800
 SCREEN_HEIGHT: Final = 400
 BACK_COLOR = (153, 204, 255)
